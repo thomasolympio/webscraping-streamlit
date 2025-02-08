@@ -1,0 +1,11 @@
+Etapa atual:
+    - Validar se consegue obter todos os dados do site da yamaha
+Proxima etapa:
+    - Automatizar login e coleta de dados do microwork, login e senha devem ser fornecido em 2 campos no streamlit pelo usuario para maior segurança
+Proxima etapa:
+    - Apos validar todo o processo de coleta, iniciar analise de dados no streamlit construindo um df com pandas ou polar para facilitar visualizao dos dados 
+Proxima etapa:  
+    - O df deve mostrar lancançamentos que nao forem na garantia yamaha e destaca-los,  deve ter dashboards.
+
+Futuramente:
+    - O app devera fazer o lancançamento da contabil sozinho. Seja com IA ou Automação

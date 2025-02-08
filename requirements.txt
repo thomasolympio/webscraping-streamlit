@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+lxml
+matplotlib
+plotly
+openpyxl
+python-dotenv
+selenium
+FPDF
+2captcha-python
+ace-tools
+python-dotenv
